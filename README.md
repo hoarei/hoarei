@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Isabelle Hoare
-- 👀 I’m interested in space, astrophysics, space flight operations, satellite technology, and observatories
-- 🌱 I’m currently gettting my BS in Astronomy & Astrophysics at Embry-Riddle Aeronautical University, FL. I have minors in Space Studies and Applied Mathematics. 
+## 🚀 Hi, I’m Isabelle Hoare 🚀
+
+- 👩‍🚀 I’m currently getting my BS in Astronomy & Astrophysics at *Embry-Riddle Aeronautical University* in Daytona Beach, FL. I have minors in Space Studies and Applied Mathematics.  
+- 🛸 I’m interested in space, astrophysics, space flight operations, satellite technology, and observatories. 
 - 💞️ I’m looking to collaborate on any entry level projects that are space oriented. I am also interested in video game data, and cost risk analysis. 
 - 📫 You can reach me by email at hoareisabelle@outlook.com
 
